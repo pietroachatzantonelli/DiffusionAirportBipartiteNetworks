@@ -1,4 +1,4 @@
-# DiffusionAirportBipartiteNetworks
+# Diffusion Airport Bipartite Networks
 A Method for Benchmarking Diffusion of Infectious Disease at an Airport’s Gates Using Bipartite Networks
 
 This project discusses the role of aviation in the spread of Covid-19 and explores methods to mitigate this risk. It notes that while airplanes and airports facilitated the rapid global spread of the virus, turning a local outbreak into a pandemic, the actual risk of transmission within these spaces is debated. Factors like large spaces, mask policies, cleaning services, and air filtration might reduce transmission, but the close proximity of travelers from various regions in airports and airplanes is a significant risk factor.
